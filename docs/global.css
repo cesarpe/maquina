@@ -1,0 +1,6 @@
+/* 2021ABR10: Esto es para que no refresque la pagina con pulldown    
+*/
+body {
+   overscroll-behavior: contain;
+   overflow-y: hidden
+}
